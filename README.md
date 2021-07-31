@@ -1,16 +1,17 @@
-### Hi there 👋
+### Who am I 👋
+- .NET Veteran for 15+ years
+- Major Contributor of NPOI - Microsoft Nuget Top 200 downloads projects
+- Father and Husband
 
-<!--
-**tonyqus/tonyqus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My Working/Technical Experiences
+- 6 year To-B software architecture design experience
+- 3 year To-C software architecture design experience (mainly e-commerce and wechat app)
+- 5 year PM experience, familiar with Agile and CI/CD
+- 2 year docker/Kubernetes experience
 
-Here are some ideas to get you started:
+### Familiar Industry 
+- Automobile 
+- Food and Beverage
+- Air Logistics
+- Human Resource
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
