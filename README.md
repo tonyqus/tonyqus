@@ -2,6 +2,7 @@
 - .NET Veteran for 15+ years
 - Major Contributor of NPOI - Microsoft Nuget Top 200 downloads projects
 - Father and Husband
+- Born in Shanghai. Proud of being a Shanghaiese
 
 ### My Working/Technical Experiences
 - 6 year To-B software architecture design experience
