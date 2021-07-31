@@ -7,7 +7,7 @@
 ### My Working Experiences
 - 16+ years working as a hand-on developer
 - 6 years To-B software architecture design experience
-- 3 years To-C software architecture design experience (mainly e-commerce and wechat app)
+- 3 years To-C software architecture design experience
 - 5 years PM experience, familiar with Agile and CI/CD
 
 ### My Technical Skills
