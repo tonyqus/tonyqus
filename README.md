@@ -14,7 +14,7 @@
 - DevOps tools such as Gitlab, JIRA, Jenkins
 - Docker/Kubernetes
 - Familiar Database: SQL Server, MySQL, PostgreSQL, MongoDB, Redis
-- Cloud Skills: Azure (Blob, Azure SQL, DataBricks)
+- Cloud Skills: Azure (Blob, Azure SQL, DataBricks, DataFactory)
 
 ### Familiar Industry 
 - Automobile 
