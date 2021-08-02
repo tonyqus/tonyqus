@@ -20,6 +20,7 @@
 
 ### Familiar Industries
 - Automobile 
+- Construction
 - Food and Beverage
 - Air Logistics
 - Human Resource
