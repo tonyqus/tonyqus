@@ -2,7 +2,6 @@
 - .NET Veteran for 15+ years
 - Major Contributor of NPOI - Microsoft Nuget Top 200 downloads projects
 - Father and Husband
-- Born in Shanghai. Proud of being a Shanghaiese
 
 ### My Working Experiences
 - 16+ years working as a hand-on developer
