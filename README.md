@@ -1,6 +1,6 @@
- **About Me**
+### About Me
  
-⚡ .NET Veteran for 15+ years
+👨‍💻 .NET Veteran for 15+ years
 
 ⚡ PMC of NPOI - Microsoft Nuget Top 200 downloads projects
 
