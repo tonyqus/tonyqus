@@ -2,7 +2,7 @@
  
 - 👨‍💻 .NET Veteran for 15+ years
 - 💻 Full stack web developer
-- ⚡ PMC of NPOI - Microsoft Nuget Top 200 downloads projects [![NPOI](https://buildstats.info/nuget/NPOI)](https://www.nuget.org/packages/NPOI) <img alt="Stars" src="https://img.shields.io/github/stars/nissl-lab/npoi?style=flat-square&labelColor=343b41"/>
+- ⚡ PMC of NPOI - Microsoft Nuget Top 200 downloads projects [![NPOI](https://buildstats.info/nuget/NPOI)](https://www.nuget.org/packages/NPOI) <img alt="Stars" src="https://img.shields.io/github/stars/nissl-lab/npoi?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/nissl-lab/npoi?style=flat-square&labelColor=343b41"/>
 - 😄 Father and Husband
 - 🌱 From Shanghai, China
 - 🤵 Pronouns: He/Him
