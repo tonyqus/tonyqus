@@ -18,9 +18,9 @@
 - Cloud Skills: Azure (Blob, Azure SQL, DataBricks, DataFactory)
 
 ### Familiar Industries
-- Automobile 
-- Construction
-- Food and Beverage
-- Air Logistics
-- Human Resource
+- Automobile (Digitalization/DMS)
+- Construction Inspection
+- Food and Beverage (Formula based R&D system)
+- Air Logistics (Cargo Management System)
+- Human Resource (Performance Management)
 
