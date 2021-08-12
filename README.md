@@ -1,7 +1,7 @@
 ### About Me
-[![Linkedin Badge](https://img.shields.io/badge/-tonyqus-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tonyqus/)](https://www.linkedin.com/in/tonyqus/)&nbsp;
-[![Telegram Badge](https://img.shields.io/badge/-@cnnug-blue?style=flat&logo=telegram&logoColor=white&link=https://t.me/cnnug)](https://t.me/cnnug)&nbsp;
-[![Github](https://img.shields.io/badge/-tonyqus-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/tonyqus)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tonyqus/)](https://www.linkedin.com/in/tonyqus/)&nbsp;
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white&link=https://t.me/cnnug)](https://t.me/cnnug)&nbsp;
+[![Github](https://img.shields.io/badge/-GithubStats-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/tonyqus)
 
 - 👨‍💻 .NET Veteran for 15+ years
 - 💻 Full stack web developer
