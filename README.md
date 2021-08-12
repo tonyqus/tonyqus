@@ -1,8 +1,9 @@
-### Who am I 👋
-- .NET Veteran for 15+ years
-- PMC of NPOI - Microsoft Nuget Top 200 downloads projects
-- Father and Husband
-- Born in Shanghai, China
+ **About Me**
+- ⚡ .NET Veteran for 15+ years
+- ⚡ PMC of NPOI - Microsoft Nuget Top 200 downloads projects
+- 😄 Father and Husband
+- 🌱 Born in Shanghai, China
+- 🤵 Pronouns: He/Him
 
 ### My Working Experiences
 - 17+ years working as a hand-on developer
@@ -12,10 +13,10 @@
 
 ### My Technical Skills
 - .NET/.NET Core (C#)
-- Front-end frameworks such as Angular, Bootstrap, jQuery, Semantic UI, PrimeNG
+- Front-end frameworks such as ![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript) Semantic UI, PrimeNG
 - DevOps tools such as Gitlab, JIRA, Jenkins
-- Docker, Docker swarm, Kubernetes
-- Familiar Database: SQL Server, MySQL, PostgreSQL, MongoDB, Redis
+- ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker), Docker swarm, Kubernetes
+- Familiar Database: SQL Server ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql) ![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb) PostgreSQL, Redis
 - Big Data wheels experiences: Hadoop, Spark, Druid, Superset
 - Cloud Skills: Azure (Blob, Azure SQL, DataBricks, DataFactory), AWS (S3, RDS)
 
