@@ -37,5 +37,5 @@
 - Air Logistics (Cargo Management System)
 - Human Resource (Performance Management)
 
-![](https://komarev.com/ghpvc/?username=tonyqus&color=blue)
+![](https://komarev.com/ghpvc/?username=tonyqus&color=blue&style=flat-square&label=Visit+Stats)
 
