@@ -7,6 +7,7 @@
 - 🌱 From Shanghai, China
 - 🏆 Member of .NET Foundation, ex-Microsoft MVP
 - 🤵 Pronouns: He/Him
+- 📫 You can reach me at tonyqus@gmail.com
 
 ### My Working Experiences
 - 17+ years working as a hand-on developer
@@ -35,4 +36,6 @@
 - Food and Beverage (Formula based R&D system)
 - Air Logistics (Cargo Management System)
 - Human Resource (Performance Management)
+
+![](https://komarev.com/ghpvc/?username=tonyqus&color=blue)
 
