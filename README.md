@@ -9,10 +9,9 @@
 - 🤵 Pronouns: He/Him
 - 📫 You can reach me at tonyqus@gmail.com
 
-<a href="https://www.linkedin.com/in/tonyqus"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-<a href="https://t.me/cnnug">
-  <img align="left" alt="My Telegram Group" width="22px" src="https://web.telegram.org/img/logo_share.png" />
-</a>
+[![Linkedin Badge](https://img.shields.io/badge/-tonyqus-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tonyqus/)](https://www.linkedin.com/in/tonyqus/)&nbsp;
+[![Telegram Badge](https://img.shields.io/badge/-cnnug-blue?style=flat&logo=telegram&logoColor=white&link=https://t.me/cnnug)](https://www.linkedin.com/in/tonyqus/)
+
 
 ### My Working Experiences
 - 17+ years working as a hand-on developer
