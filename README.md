@@ -1,14 +1,11 @@
 ### About Me
  
-👨‍💻 .NET Veteran for 15+ years
-
-⚡ PMC of NPOI - Microsoft Nuget Top 200 downloads projects
-
-😄 Father and Husband
-
-🌱 From Shanghai, China
-
-🤵 Pronouns: He/Him
+- 👨‍💻 .NET Veteran for 15+ years
+- 💻 Full stack web developer
+- ⚡ PMC of NPOI - Microsoft Nuget Top 200 downloads projects [![NPOI](https://buildstats.info/nuget/NPOI)](https://www.nuget.org/packages/NPOI) <img alt="Stars" src="https://img.shields.io/github/stars/nissl-lab/npoi?style=flat-square&labelColor=343b41"/>
+- 😄 Father and Husband
+- 🌱 From Shanghai, China
+- 🤵 Pronouns: He/Him
 
 ### My Working Experiences
 - 17+ years working as a hand-on developer
