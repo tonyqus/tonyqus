@@ -1,9 +1,14 @@
  **About Me**
-- ⚡ .NET Veteran for 15+ years
-- ⚡ PMC of NPOI - Microsoft Nuget Top 200 downloads projects
-- 😄 Father and Husband
-- 🌱 Born in Shanghai, China
-- 🤵 Pronouns: He/Him
+ 
+⚡ .NET Veteran for 15+ years
+
+⚡ PMC of NPOI - Microsoft Nuget Top 200 downloads projects
+
+😄 Father and Husband
+
+🌱 Born in Shanghai, China
+
+🤵 Pronouns: He/Him
 
 ### My Working Experiences
 - 17+ years working as a hand-on developer
