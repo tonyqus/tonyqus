@@ -9,6 +9,8 @@
 - 🤵 Pronouns: He/Him
 - 📫 You can reach me at tonyqus@gmail.com
 
+<a href="https://www.linkedin.com/in/tonyqus"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+
 ### My Working Experiences
 - 17+ years working as a hand-on developer
 - 6 years To-B software architecture design experience
