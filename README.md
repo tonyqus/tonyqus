@@ -6,7 +6,7 @@
 
 😄 Father and Husband
 
-🌱 Born in Shanghai, China
+🌱 from Shanghai, China
 
 🤵 Pronouns: He/Him
 
