@@ -10,12 +10,6 @@
 - 🤵 Pronouns: He/Him
 - 📫 You can reach me at [![Gmail](https://img.shields.io/badge/-tonyqus@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tonyqus@gmail.com)
 
-### My Working Experiences
-- 17+ years working as a hand-on developer
-- 6 years To-B software architecture design experience
-- 3 years To-C software architecture design experience
-- 5 years PM experience, familiar with Agile and CI/CD
-
 ### My Technical Skills
 - .NET/.NET Core (C#)
 - Front-end frameworks such as 
