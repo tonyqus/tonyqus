@@ -4,11 +4,15 @@
 
 - 👨‍💻 .NET Veteran for 15+ years
 - 💻 Full stack web developer
-- ⚡ PMC of NPOI - Microsoft Nuget Top 200 downloads projects [![NPOI](https://buildstats.info/nuget/NPOI)](https://www.nuget.org/packages/NPOI)&nbsp; <img alt="Stars" src="https://img.shields.io/github/stars/nissl-lab/npoi?style=flat-square&labelColor=343b41"/>
 - 😄 Father and Husband
 - 🏆 Member of .NET Foundation, ex-Microsoft MVP
 - 🤵 Pronouns: He/Him
 - 📫 You can reach me at [![Gmail](https://img.shields.io/badge/-tonyqus@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tonyqus@gmail.com)
+
+### Open Source Projects
+- [NPOI](https://github.com/nissl-lab/npoi/) [![NPOI](https://buildstats.info/nuget/NPOI)](https://www.nuget.org/packages/NPOI)&nbsp; <img alt="Stars" src="https://img.shields.io/github/stars/nissl-lab/npoi?style=flat-square&labelColor=343b41"/>
+- [Toxy](https://github.com/nissl-lab/toxy)  [![Toxy](https://buildstats.info/nuget/Toxy)](https://www.nuget.org/packages/Toxy)&nbsp; <img alt="Stars" src="https://img.shields.io/github/stars/nissl-lab/toxy?style=flat-square&labelColor=343b41"/>
+- [Companies using .NET in China](https://github.com/dotnet-cn/jobs) <img alt="Stars" src="https://img.shields.io/github/stars/dotnet-cn/jobs?style=flat-square&labelColor=343b41"/>
 
 ### My Technical Skills
 - .NET/.NET Core (C#)
