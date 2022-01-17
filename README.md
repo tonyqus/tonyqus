@@ -9,10 +9,14 @@
 - 🤵 Pronouns: He/Him
 - 📫 You can reach me at [![Gmail](https://img.shields.io/badge/-tonyqus@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tonyqus@gmail.com)
 
-### Open Source Projects
+### Primary Maintainer of Open Source Projects
 - [NPOI](https://github.com/nissl-lab/npoi/) [![NPOI](https://buildstats.info/nuget/NPOI)](https://www.nuget.org/packages/NPOI)&nbsp; <img alt="Stars" src="https://img.shields.io/github/stars/nissl-lab/npoi?style=flat-square&labelColor=343b41"/>
 - [Toxy](https://github.com/nissl-lab/toxy)  [![Toxy](https://buildstats.info/nuget/Toxy)](https://www.nuget.org/packages/Toxy)&nbsp; <img alt="Stars" src="https://img.shields.io/github/stars/nissl-lab/toxy?style=flat-square&labelColor=343b41"/>
 - [Companies using .NET in China](https://github.com/dotnet-cn/jobs) <img alt="Stars" src="https://img.shields.io/github/stars/dotnet-cn/jobs?style=flat-square&labelColor=343b41"/>
+
+### Contributor (non-primary) of Open Source Projects
+- [Country Validator](https://github.com/anghelvalentin/CountryValidator)  [![CountryValidator](https://buildstats.info/nuget/CountryValidator)](https://www.nuget.org/packages/CountryValidator)
+- [Npgsql](https://github.com/npgsql/npgsql) [![NPOI](https://buildstats.info/nuget/npgsql)](https://www.nuget.org/packages/npgsql)&nbsp; <img alt="Stars" src="https://img.shields.io/github/stars/npgsql/npgsql?style=flat-square&labelColor=343b41"/>
 
 ### My Technical Skills
 - .NET/.NET Core (C#)
