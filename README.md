@@ -5,7 +5,7 @@
 - 👨‍💻 .NET Veteran for 15+ years
 - 💻 Full stack web developer
 - 😄 Father and Husband
-- 🏆 Member of .NET Foundation, ex-Microsoft MVP
+- 🏆 Member of .NET Foundation
 - 🤵 Pronouns: He/Him
 - 📫 You can reach me at [![Gmail](https://img.shields.io/badge/-tonyqus@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tonyqus@gmail.com)
 
