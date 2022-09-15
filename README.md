@@ -12,6 +12,7 @@
 ### Primary Maintainer of Open Source Projects
 - [NPOI](https://github.com/nissl-lab/npoi/) [![NPOI](https://buildstats.info/nuget/NPOI)](https://www.nuget.org/packages/NPOI)&nbsp; <img alt="Stars" src="https://img.shields.io/github/stars/nissl-lab/npoi?style=flat-square&labelColor=343b41"/>
 - [Toxy](https://github.com/nissl-lab/toxy)  [![Toxy](https://buildstats.info/nuget/Toxy)](https://www.nuget.org/packages/Toxy)&nbsp; <img alt="Stars" src="https://img.shields.io/github/stars/nissl-lab/toxy?style=flat-square&labelColor=343b41"/>
+- [NPOI Examples](https://github.com/nissl-lab/npoi-examples) <img alt="Stars" src="https://img.shields.io/github/stars/nissl-lab/npoi-examples?style=flat-square&labelColor=343b41"/>
 - [Companies using .NET in China](https://github.com/dotnet-cn/jobs) <img alt="Stars" src="https://img.shields.io/github/stars/dotnet-cn/jobs?style=flat-square&labelColor=343b41"/>
 
 ### Contributor (non-primary) of Open Source Projects
