@@ -26,7 +26,7 @@
 ![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript) Semantic UI, PrimeNG
-- DevOps tools such as Gitlab, JIRA, Jenkins
+- DevOps/project management tools such as Azure DevOps, Gitlab, JIRA, Jenkins
 - ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker), Docker swarm, Kubernetes
 - Familiar Database: SQL Server ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb)&nbsp;
@@ -35,10 +35,10 @@
 - Cloud Skills: Azure (Blob, Azure SQL, DataBricks, DataFactory), AWS (S3, RDS)
 
 ### Familiar Industries
-- Automobile (Digitalization/DMS)
+- Automobile (Experience Center Digitalization/DMS)
+- eCommerence (Game industry and Supplement industry)
 - Construction Inspection
 - Food and Beverage (Formula based R&D system)
-- Air Logistics (Cargo Management System)
 - Human Resource (Performance Management)
 
 ![](https://komarev.com/ghpvc/?username=tonyqus&color=blue&style=flat-square&label=Visit+Stats)
