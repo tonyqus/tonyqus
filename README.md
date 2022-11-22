@@ -37,7 +37,6 @@
 ### Familiar Industries
 - Automobile (Experience Center Digitalization/DMS)
 - eCommerence (Game industry and Supplement industry)
-- Construction Inspection
 - Food and Beverage (Formula based R&D system)
 - Human Resource (Performance Management)
 
