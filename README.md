@@ -17,7 +17,8 @@
 
 ### Contributor (non-primary) of Open Source Projects
 - [Country Validator](https://github.com/anghelvalentin/CountryValidator)  [![CountryValidator](https://buildstats.info/nuget/CountryValidator)](https://www.nuget.org/packages/CountryValidator)
-- [Npgsql](https://github.com/npgsql/npgsql) [![NPOI](https://buildstats.info/nuget/npgsql)](https://www.nuget.org/packages/npgsql)&nbsp; <img alt="Stars" src="https://img.shields.io/github/stars/npgsql/npgsql?style=flat-square&labelColor=343b41"/>
+- [Npgsql](https://github.com/npgsql/npgsql) [![Npgsql](https://buildstats.info/nuget/npgsql)](https://www.nuget.org/packages/npgsql)&nbsp; <img alt="Stars" src="https://img.shields.io/github/stars/npgsql/npgsql?style=flat-square&labelColor=343b41"/>
+- [Covariants](https://github.com/hodcroftlab/covariants) <img alt="Stars" src="https://img.shields.io/github/stars/hodcroftlab/covariants?style=flat-square&labelColor=343b41"/>
 
 ### My Technical Skills
 - .NET/.NET Core (C#)
