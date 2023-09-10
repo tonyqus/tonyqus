@@ -1,6 +1,4 @@
 ### About Me
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white&link=https://t.me/cnnug)](https://t.me/cnnug)&nbsp;
-[![Github](https://img.shields.io/badge/-GithubStats-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/tonyqus)
 
 - 👨‍💻 .NET Veteran for 15+ years
 - 💻 Full stack web developer
