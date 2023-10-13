@@ -35,8 +35,8 @@
 - Cloud Skills: Azure (Blob, Azure SQL, DataBricks, DataFactory), AWS (S3, RDS)
 
 ### Familiar Industries
+- Insurance (Underwriting)
 - Automobile (Experience Center Digitalization/DMS)
-- eCommerence (Game industry and Supplement industry)
 - Food and Beverage (Formula based R&D system)
 - Human Resource (Performance Management)
 
