@@ -3,7 +3,6 @@
 - 👨‍💻 .NET Veteran for 15+ years
 - 💻 Full stack web developer
 - 😄 Father and Husband
-- 🏆 Member of .NET Foundation
 - 🤵 Pronouns: He/Him
 - 📫 You can reach me at [![Gmail](https://img.shields.io/badge/-tonyqus@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tonyqus@gmail.com)
 
@@ -32,7 +31,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=336791)&nbsp; Redis
 - Big Data wheels experiences: Hadoop, Spark, ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-05122A?style=flat&logo=apache-kafka&logoColor=231F20)&nbsp; Druid, Superset,
-- Cloud Skills: Azure (Blob, Azure SQL, DataBricks, DataFactory), AWS (S3, RDS)
+- Cloud Skills: Azure (Blob, Azure SQL, DataBricks), AWS (S3, RDS, Lambda, SQS)
 
 ### Familiar Industries
 - Insurance (Underwriting)
