@@ -11,16 +11,16 @@
 - Crypto/Web3
 
 ### Primary Maintainer of Open Source Projects
-- [NPOI](https://github.com/nissl-lab/npoi/) [![NPOI](https://buildstats.info/nuget/NPOI)](https://www.nuget.org/packages/NPOI)&nbsp; <img alt="Stars" src="https://img.shields.io/github/stars/nissl-lab/npoi?style=flat-square&labelColor=343b41"/>
-- [Toxy](https://github.com/nissl-lab/toxy)  [![Toxy](https://buildstats.info/nuget/Toxy)](https://www.nuget.org/packages/Toxy)&nbsp; <img alt="Stars" src="https://img.shields.io/github/stars/nissl-lab/toxy?style=flat-square&labelColor=343b41"/>
+- [NPOI](https://github.com/nissl-lab/npoi/) [![NuGet](https://img.shields.io/nuget/dt/npoi)](https://www.nuget.org/packages/NPOI)&nbsp; <img alt="Stars" src="https://img.shields.io/github/stars/nissl-lab/npoi?style=flat-square&labelColor=343b41"/>
+- [Toxy](https://github.com/nissl-lab/toxy)  [![NuGet](https://img.shields.io/nuget/dt/Toxy)](https://www.nuget.org/packages/Toxy)&nbsp; <img alt="Stars" src="https://img.shields.io/github/stars/nissl-lab/toxy?style=flat-square&labelColor=343b41"/>
 - [.NET Weekly](https://github.com/DotNETWeekly-io/DotNetWeekly) <img alt="Stars" src="https://img.shields.io/github/stars/DotNETWeekly-io/DotNetWeekly?style=flat-square&labelColor=343b41"/>
 - [Companies using .NET in China](https://github.com/dotnet-cn/jobs) <img alt="Stars" src="https://img.shields.io/github/stars/dotnet-cn/jobs?style=flat-square&labelColor=343b41"/>
 - [China .NET OSS Ranking](https://github.com/dotnet-cn/OSSRanking/)
 
 
 ### Contributor (non-primary) of Open Source Projects
-- [Country Validator](https://github.com/anghelvalentin/CountryValidator)  [![CountryValidator](https://buildstats.info/nuget/CountryValidator)](https://www.nuget.org/packages/CountryValidator)
-- [Npgsql](https://github.com/npgsql/npgsql) [![Npgsql](https://buildstats.info/nuget/npgsql)](https://www.nuget.org/packages/npgsql)&nbsp; <img alt="Stars" src="https://img.shields.io/github/stars/npgsql/npgsql?style=flat-square&labelColor=343b41"/>
+- [Country Validator](https://github.com/anghelvalentin/CountryValidator) [![NuGet](https://img.shields.io/nuget/dt/CountryValidator)](https://www.nuget.org/packages/CountryValidator) 
+- [Npgsql](https://github.com/npgsql/npgsql) [![NuGet](https://img.shields.io/nuget/dt/npgsql)](https://www.nuget.org/packages/npgsql)&nbsp; <img alt="Stars" src="https://img.shields.io/github/stars/npgsql/npgsql?style=flat-square&labelColor=343b41"/>
 - [Covariants](https://github.com/hodcroftlab/covariants) <img alt="Stars" src="https://img.shields.io/github/stars/hodcroftlab/covariants?style=flat-square&labelColor=343b41"/>
 
 ### My Technical Skills
