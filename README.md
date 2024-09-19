@@ -19,7 +19,7 @@
 
 
 ### Contributor (non-primary) of Open Source Projects
-- [Country Validator](https://github.com/anghelvalentin/CountryValidator) [![NuGet](https://img.shields.io/nuget/dt/CountryValidator)](https://www.nuget.org/packages/CountryValidator) 
+- [Country Validator](https://github.com/anghelvalentin/CountryValidator) [![NuGet](https://img.shields.io/nuget/dt/CountryValidator)](https://www.nuget.org/packages/CountryValidator) &nbsp; <img alt="Stars" src="https://img.shields.io/github/stars/anghelvalentin/CountryValidator?style=flat-square&labelColor=343b41"/>
 - [Npgsql](https://github.com/npgsql/npgsql) [![NuGet](https://img.shields.io/nuget/dt/npgsql)](https://www.nuget.org/packages/npgsql)&nbsp; <img alt="Stars" src="https://img.shields.io/github/stars/npgsql/npgsql?style=flat-square&labelColor=343b41"/>
 - [Covariants](https://github.com/hodcroftlab/covariants) <img alt="Stars" src="https://img.shields.io/github/stars/hodcroftlab/covariants?style=flat-square&labelColor=343b41"/>
 
