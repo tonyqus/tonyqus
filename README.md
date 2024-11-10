@@ -39,11 +39,13 @@
 - Big Data wheels experiences: Hadoop, Spark, ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-05122A?style=flat&logo=apache-kafka&logoColor=231F20)&nbsp; Druid, Superset,
 - Cloud Skills: Azure (Blob, Azure SQL, DataBricks), AWS (S3, RDS, Lambda, SQS)
 
-### Familiar Industries
-- Insurance (Underwriting)
-- Automobile (Experience Center Digitalization/DMS)
+### Industries I worked before
+- Automobile (Experience Center Digitalization/Dealer Management System)
 - Food and Beverage (Formula based R&D system)
 - Human Resource (Performance Management)
+- Insurance (Underwriting)
+- Aviation (Flight data analysis/ADSB data tracking)
+- Finance (Asset management system for Trust Fund)
 
 ![Counter](https://komarev.com/ghpvc/?username=tonyqus&color=blue&style=flat-square&label=Visit+Stats)
 
