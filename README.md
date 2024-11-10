@@ -5,6 +5,7 @@
 - 😄 Father and Husband
 - 🤵 Pronouns: He/Him
 - 📫 You can reach me at [![Gmail](https://img.shields.io/badge/-tonyqus@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tonyqus@gmail.com)
+- 💻 I'm looking for a new remote job. Please contact me via email if you are interested in hiring me.
 
 ### Learning
 - Python
@@ -24,7 +25,7 @@
 - [Covariants](https://github.com/hodcroftlab/covariants) <img alt="Stars" src="https://img.shields.io/github/stars/hodcroftlab/covariants?style=flat-square&labelColor=343b41"/>
 
 ### My Technical Skills
-- .NET/.NET Core (C#)
+- .NET/.NET Core (C#), ASP.NET/ASP.NET Core
 - Front-end frameworks such as 
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular)&nbsp;
