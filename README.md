@@ -9,7 +9,7 @@
 
 ### Learning
 - Python
-- Crypto/Web3
+- Crypto/Web3/Blockchian
 
 ### Primary Maintainer of Open Source Projects
 - [NPOI](https://github.com/nissl-lab/npoi/) [![NuGet](https://img.shields.io/nuget/dt/npoi)](https://www.nuget.org/packages/NPOI)&nbsp; <img alt="Stars" src="https://img.shields.io/github/stars/nissl-lab/npoi?style=flat-square&labelColor=343b41"/>
