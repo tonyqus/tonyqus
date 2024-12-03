@@ -11,6 +11,12 @@
 - Python
 - Crypto/Web3/Blockchian
 
+### Achievements 
+- Translated 4 technical books into Chinese 
+- Microsoft MVP - Developer technology category from 2014-2016
+- Most popular open-source .NET project in Microsoft community in China 
+- Hold Shanghai .NET user group bi-weekly meetup for about 2 years
+
 ### Primary Maintainer of Open Source Projects
 - [NPOI](https://github.com/nissl-lab/npoi/) [![NuGet](https://img.shields.io/nuget/dt/npoi)](https://www.nuget.org/packages/NPOI)&nbsp; <img alt="Stars" src="https://img.shields.io/github/stars/nissl-lab/npoi?style=flat-square&labelColor=343b41"/>
 - [Toxy](https://github.com/nissl-lab/toxy)  [![NuGet](https://img.shields.io/nuget/dt/Toxy)](https://www.nuget.org/packages/Toxy)&nbsp; <img alt="Stars" src="https://img.shields.io/github/stars/nissl-lab/toxy?style=flat-square&labelColor=343b41"/>
