@@ -32,6 +32,7 @@
 - [FileSignatures](https://github.com/neilharvey/FileSignatures) [![NuGet](https://img.shields.io/nuget/dt/FileSignatures)](https://www.nuget.org/packages/FileSignatures)&nbsp; <img alt="Stars" src="https://img.shields.io/github/stars/neilharvey/FileSignatures?style=flat-square&labelColor=343b41"/>
 ### My Technical Skills
 - .NET/.NET Core (C#), ASP.NET/ASP.NET Core
+- Python
 - Front-end frameworks such as 
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular)&nbsp;
