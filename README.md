@@ -5,7 +5,6 @@
 - 😄 Father and Husband
 - 🤵 Pronouns: He/Him
 - 📫 You can reach me at [![Gmail](https://img.shields.io/badge/-tonyqus@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tonyqus@gmail.com)
-- 💻 I'm looking for a new remote job. Please contact me via email if you are interested in hiring me.
 
 ### Learning
 - Python
