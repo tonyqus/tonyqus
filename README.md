@@ -12,7 +12,7 @@
 - Crypto/Web3/Blockchain
 
 ### Achievements 
-- Translated 4 technical books into Chinese 
+- Translated 4 technical books into Chinese Simplified
 - Microsoft MVP - Developer technology category from 2014-2016
 - Most popular open-source .NET project in the Microsoft community in China 
 - Hold Shanghai .NET user group bi-weekly meetup for about 2 years
