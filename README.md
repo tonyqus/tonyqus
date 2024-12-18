@@ -9,12 +9,12 @@
 
 ### Learning
 - Python
-- Crypto/Web3/Blockchian
+- Crypto/Web3/Blockchain
 
 ### Achievements 
 - Translated 4 technical books into Chinese 
 - Microsoft MVP - Developer technology category from 2014-2016
-- Most popular open-source .NET project in Microsoft community in China 
+- Most popular open-source .NET project in the Microsoft community in China 
 - Hold Shanghai .NET user group bi-weekly meetup for about 2 years
 
 ### Primary Maintainer of Open Source Projects
