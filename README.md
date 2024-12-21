@@ -54,7 +54,7 @@
 - Insurance (Underwriting)
 - Aviation (Flight data analysis/ADSB data tracking)
 - Finance (Asset management system for Trust Fund)
-- Chemical (B2B E-commerce for chemical products website)
+- Chemical (B2B E-commerce for chemical products)
 
 ![Counter](https://komarev.com/ghpvc/?username=tonyqus&color=blue&style=flat-square&label=Visit+Stats)
 
