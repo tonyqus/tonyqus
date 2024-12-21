@@ -7,9 +7,9 @@
 - 📫 You can reach me at [![Gmail](https://img.shields.io/badge/-tonyqus@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tonyqus@gmail.com)
 
 ### Learning
-- Python
 - Crypto/Web3/Blockchain
-
+- Español
+  
 ### Achievements 
 - Translated 4 technical books into Chinese Simplified
 - Microsoft MVP - Developer technology category from 2014-2016
