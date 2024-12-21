@@ -15,6 +15,7 @@
 - Microsoft MVP - Developer technology category from 2014-2016
 - Most popular open-source .NET project in the Microsoft community in China 
 - Hold Shanghai .NET user group bi-weekly meetup for about 2 years
+- Develop an .NET-based asset management system that manages 100-billion RMB Trust fund for China stock market 
 
 ### Primary Maintainer of Open Source Projects
 - [NPOI](https://github.com/nissl-lab/npoi/) [![NuGet](https://img.shields.io/nuget/dt/npoi)](https://www.nuget.org/packages/NPOI)&nbsp; <img alt="Stars" src="https://img.shields.io/github/stars/nissl-lab/npoi?style=flat-square&labelColor=343b41"/>
