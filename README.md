@@ -15,6 +15,7 @@
 - Microsoft MVP - Developer technology category from 2014-2016
 - Most popular open-source .NET project in the Microsoft community in China 
 - Hold Shanghai .NET user group bi-weekly meetup for about 2 years
+- Maintain a Wechat Official Account called 架构师联盟 (Software Architect Alliance) and get 15000 followers in 1.5 year
 - Develop an .NET-based asset management system that manages 100-billion RMB trust fund for China stock market
 - Saved the Online Booking system project for Porsche Experience Center Shanghai from failure and made the system the most user-friendly system of the 5 Porche experience centers worldwide.
 
