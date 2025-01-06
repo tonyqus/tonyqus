@@ -60,7 +60,7 @@
 
 ### Famous Clients I've served
 - Nestle
-- COFCO
+- Lee Kum Kee
 - COMAC
 - Air China
 - Dow Chemical
