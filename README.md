@@ -61,7 +61,7 @@
 ### Famous Clients I've served
 - Nestle
 - COFCO
-- COMAC (who creates C919 and ARJ21)
+- COMAC
 - Air China
 - Dow Chemical
 - Porsche
