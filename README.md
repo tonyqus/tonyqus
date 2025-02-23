@@ -1,7 +1,7 @@
 ### About Me
 
 - 👨‍💻 .NET Veteran for 15+ years
-- 💻 Full stack web developer
+- 💻 Full stack web developer & project manager
 - 😄 Father and Husband
 - 🤵 Pronouns: He/Him
 - 📫 You can reach me at [![Gmail](https://img.shields.io/badge/-tonyqus@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tonyqus@gmail.com)
