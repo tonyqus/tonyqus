@@ -9,6 +9,7 @@
 ### Learning
 - Crypto/Web3/Blockchain
 - Español
+- Malay
   
 ### Achievements 
 - Translated 4 technical books into Chinese Simplified
