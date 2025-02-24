@@ -19,6 +19,7 @@
 - Maintain a Wechat Official Account called 架构师联盟 (Software Architect Alliance) and get 15000 followers in 1.5 year
 - Develop an .NET-based asset management system that manages 100-billion RMB trust fund for China stock market
 - Recover the Online Booking system project for Porsche Experience Center Shanghai from failure and made the system the most user-friendly system of the 5 Porche experience centers worldwide.
+- Expose a Microsoft training scammer, whose name is Frank Xulei, to the public. He cheated beginner developers' money from 2014 to 2018. His training is full of sexual indication instead of training programming. 
 
 ### Primary Maintainer of Open Source Projects
 - [NPOI](https://github.com/nissl-lab/npoi/) [![NuGet](https://img.shields.io/nuget/dt/npoi)](https://www.nuget.org/packages/NPOI)&nbsp; <img alt="Stars" src="https://img.shields.io/github/stars/nissl-lab/npoi?style=flat-square&labelColor=343b41"/>
