@@ -8,6 +8,7 @@
 
 ### Learning
 - Crypto/Web3/Blockchain
+- Python
 - Español
 - Malay
   
