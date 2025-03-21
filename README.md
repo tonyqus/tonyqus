@@ -18,7 +18,6 @@
 - Maintain a Wechat Official Account called 架构师联盟 (Software Architect Alliance) and get 15000 followers in 1.5 year
 - Develop an .NET-based asset management system that manages 100-billion RMB trust fund for China stock market
 - Recover the Online Booking system project for Porsche Experience Center Shanghai from failure and made the system the most user-friendly system of the 5 Porche experience centers worldwide.
-- Expose a Microsoft training scammer, whose name is Frank Xulei, to the public. He cheated beginner developers' money from 2014 to 2018. His training is full of sexual indication instead of training programming. 
 
 ### Primary Maintainer of Open Source Projects
 - [NPOI](https://github.com/nissl-lab/npoi/) [![NuGet](https://img.shields.io/nuget/dt/npoi)](https://www.nuget.org/packages/NPOI)&nbsp; <img alt="Stars" src="https://img.shields.io/github/stars/nissl-lab/npoi?style=flat-square&labelColor=343b41"/>
@@ -27,7 +26,12 @@
 - [Companies using .NET in China](https://github.com/dotnet-cn/jobs) <img alt="Stars" src="https://img.shields.io/github/stars/dotnet-cn/jobs?style=flat-square&labelColor=343b41"/>
 - [China .NET OSS Ranking](https://github.com/dotnet-cn/OSSRanking/)
 - [Companies using .NET in Malaysia](https://github.com/tonyqus/dotnet-jobs-my)
+- [China .NET Community Statistics](https://github.com/dotnet-cn/communitystats/edit/main/README.md)
 
+### Research Projects in Progress
+- Microsoft MVP Program Deep Investigation with Marketing Data
+- China .NET Community Documentary File
+- .NET Companies in Malaysia
 
 ### Contributor (non-primary) of Open Source Projects
 - [Country Validator](https://github.com/anghelvalentin/CountryValidator) [![NuGet](https://img.shields.io/nuget/dt/CountryValidator)](https://www.nuget.org/packages/CountryValidator) &nbsp; <img alt="Stars" src="https://img.shields.io/github/stars/anghelvalentin/CountryValidator?style=flat-square&labelColor=343b41"/>
