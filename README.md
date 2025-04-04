@@ -13,7 +13,7 @@
 ### Achievements 
 - Translated 4 technical books into Chinese Simplified
 - Microsoft MVP - Developer technology category from 2014-2016
-- Most popular open-source .NET project in the Microsoft community in China 
+- Most popular open-source .NET project in the Microsoft community in China (nuget.org ranking: 268)
 - Hold Shanghai .NET user group bi-weekly meetup for about 2 years
 - Maintain a Wechat Official Account called 架构师联盟 (Software Architect Alliance) and get 15000 followers in 1.5 year
 - Develop an .NET-based asset management system that manages 100-billion RMB trust fund for China stock market
