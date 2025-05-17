@@ -27,7 +27,7 @@
 - [Companies using .NET in China](https://github.com/shnug/jobs) <img alt="Stars" src="https://img.shields.io/github/stars/shnug/jobs?style=flat-square&labelColor=343b41"/>
 - [China .NET OSS Ranking](https://github.com/shnug/OSSRanking/) <img alt="Stars" src="https://img.shields.io/github/stars/shnug/OSSRanking?style=flat-square&labelColor=343b41"/>
 - [Companies using .NET in Malaysia](https://github.com/tonyqus/dotnet-jobs-my)
-- [China .NET Community Statistics](https://github.com/dotnet-cn/communitystats/edit/main/README.md)
+- [China .NET Community Statistics](https://github.com/shnug/communitystats/)
 
 ### Research Projects in Progress
 - .NET Companies in Malaysia
