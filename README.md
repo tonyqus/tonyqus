@@ -30,9 +30,8 @@
 - [China .NET Community Statistics](https://github.com/dotnet-cn/communitystats/edit/main/README.md)
 
 ### Research Projects in Progress
-- Microsoft MVP Program Deep Investigation with Marketing Data
-- China .NET Community Documentary File
 - .NET Companies in Malaysia
+- Learn Nuget.org Architecture and its history
 
 ### Contributor (non-primary) of Open Source Projects
 - [Country Validator](https://github.com/anghelvalentin/CountryValidator) [![NuGet](https://img.shields.io/nuget/dt/CountryValidator)](https://www.nuget.org/packages/CountryValidator) &nbsp; <img alt="Stars" src="https://img.shields.io/github/stars/anghelvalentin/CountryValidator?style=flat-square&labelColor=343b41"/>
