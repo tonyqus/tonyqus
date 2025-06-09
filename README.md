@@ -66,8 +66,6 @@
 ### Famous Clients I've served
 - Nestle
 - Lee Kum Kee
-- COMAC
-- Air China
 - Dow Chemical
 - Porsche
 - Ford
