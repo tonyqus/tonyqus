@@ -59,7 +59,7 @@
 - Food and Beverage (Formula based R&D system)
 - Human Resource (Performance Management)
 - Insurance (Underwriting)
-- Aviation (Flight data analysis/ADSB data tracking)
+- Aviation (Flight data analysis)
 - Finance (Asset management system for Trust Fund)
 - Chemical (B2B E-commerce for chemical products)
 
