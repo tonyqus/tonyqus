@@ -8,7 +8,7 @@
 
 ### Learning
 - Crypto/Web3/Blockchain
-- Python
+- Rust
   
 ### Achievements 
 - Translated 4 technical books into Chinese Simplified
