@@ -7,7 +7,7 @@
 - 📫 You can reach me at [![Gmail](https://img.shields.io/badge/-tonyqus@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tonyqus@gmail.com)
 
 ### Learning
-- Crypto/Web3/Blockchain
+- Solidity
 - Rust
   
 ### Achievements 
