@@ -15,8 +15,6 @@
 - Microsoft MVP - Developer technology category from 2014-2016
 - Most popular open-source .NET project in the Microsoft community in China (nuget.org ranking: 268)
 - Hold Shanghai .NET user group bi-weekly meetup for about 2 years
-- Maintain a Wechat Official Account called 架构师联盟 (Software Architect Alliance) and get 15000 followers in 1.5 year
-- Develop an .NET-based asset management system that manages 100-billion RMB trust fund for China stock market
 - Recover the Online Booking system project for Porsche Experience Center Shanghai from failure and made the system the most user-friendly system of the 5 Porche experience centers worldwide.
 - Got 12000 Likes and 2000 followers on Zhihu (Chinese Quora)
 
@@ -28,10 +26,6 @@
 - [China .NET OSS Ranking](https://github.com/shnug/OSSRanking/) <img alt="Stars" src="https://img.shields.io/github/stars/shnug/OSSRanking?style=flat-square&labelColor=343b41"/>
 - [Companies using .NET in Malaysia](https://github.com/tonyqus/dotnet-jobs-my)
 - [China .NET Community Statistics](https://github.com/shnug/communitystats/)
-
-### Research Projects in Progress
-- .NET Companies in Malaysia
-- Learn Nuget.org Architecture and its history
 
 ### Contributor (non-primary) of Open Source Projects
 - [Country Validator](https://github.com/anghelvalentin/CountryValidator) [![NuGet](https://img.shields.io/nuget/dt/CountryValidator)](https://www.nuget.org/packages/CountryValidator) &nbsp; <img alt="Stars" src="https://img.shields.io/github/stars/anghelvalentin/CountryValidator?style=flat-square&labelColor=343b41"/>
