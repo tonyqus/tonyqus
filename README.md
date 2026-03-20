@@ -6,6 +6,10 @@
 - 🤵 Pronouns: He/Him
 - 📫 You can reach me at [![Gmail](https://img.shields.io/badge/-tonyqus@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tonyqus@gmail.com)
 
+## Recent Learning Topic
+- AI capability assessment
+- Learning Español
+- Vibe Coding 
   
 ### Achievements 
 - Translated 4 technical books into Chinese Simplified
@@ -13,7 +17,7 @@
 - Most popular open-source .NET project in the Microsoft community in China (nuget.org ranking: 268)
 - Hold Shanghai .NET user group bi-weekly meetup for about 2 years
 - Recover the Online Booking system project for Porsche Experience Center Shanghai from failure and made the system the most user-friendly system of the 5 Porche experience centers worldwide.
-- Got 12000 Likes and 2000 followers on Zhihu (Chinese Quora)
+- Got 12000+ Likes and 2500+ followers on Zhihu (Chinese Quora)
 
 ### Primary Maintainer of Open Source Projects
 - [NPOI](https://github.com/nissl-lab/npoi/) [![NuGet](https://img.shields.io/nuget/dt/npoi)](https://www.nuget.org/packages/NPOI)&nbsp; <img alt="Stars" src="https://img.shields.io/github/stars/nissl-lab/npoi?style=flat-square&labelColor=343b41"/>
