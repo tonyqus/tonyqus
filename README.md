@@ -22,12 +22,12 @@
 ### Primary Maintainer of Open Source Projects
 - [NPOI](https://github.com/nissl-lab/npoi/) [![NuGet](https://img.shields.io/nuget/dt/npoi)](https://www.nuget.org/packages/NPOI)&nbsp; <img alt="Stars" src="https://img.shields.io/github/stars/nissl-lab/npoi?style=flat-square&labelColor=343b41"/>
 - [Toxy](https://github.com/nissl-lab/toxy)  [![NuGet](https://img.shields.io/nuget/dt/Toxy)](https://www.nuget.org/packages/Toxy)&nbsp; <img alt="Stars" src="https://img.shields.io/github/stars/nissl-lab/toxy?style=flat-square&labelColor=343b41"/>
+- [FileSignatures](https://github.com/neilharvey/FileSignatures) [![NuGet](https://img.shields.io/nuget/dt/FileSignatures)](https://www.nuget.org/packages/FileSignatures)&nbsp; <img alt="Stars" src="https://img.shields.io/github/stars/neilharvey/FileSignatures?style=flat-square&labelColor=343b41"/>
 - [.NET Weekly](https://github.com/DotNETWeekly-io/DotNetWeekly) <img alt="Stars" src="https://img.shields.io/github/stars/DotNETWeekly-io/DotNetWeekly?style=flat-square&labelColor=343b41"/>
 - [Companies using .NET in China](https://github.com/shnug/jobs) <img alt="Stars" src="https://img.shields.io/github/stars/shnug/jobs?style=flat-square&labelColor=343b41"/>
 - [China .NET OSS Ranking](https://github.com/shnug/OSSRanking/) <img alt="Stars" src="https://img.shields.io/github/stars/shnug/OSSRanking?style=flat-square&labelColor=343b41"/>
 - [Companies using .NET in Malaysia](https://github.com/tonyqus/dotnet-jobs-my)
 - [China .NET Community Statistics](https://github.com/shnug/communitystats/)
-- [FileSignatures](https://github.com/neilharvey/FileSignatures) [![NuGet](https://img.shields.io/nuget/dt/FileSignatures)](https://www.nuget.org/packages/FileSignatures)&nbsp; <img alt="Stars" src="https://img.shields.io/github/stars/neilharvey/FileSignatures?style=flat-square&labelColor=343b41"/>
 
 ### Contributor (non-primary) of Open Source Projects
 - [Country Validator](https://github.com/anghelvalentin/CountryValidator) [![NuGet](https://img.shields.io/nuget/dt/CountryValidator)](https://www.nuget.org/packages/CountryValidator) &nbsp; <img alt="Stars" src="https://img.shields.io/github/stars/anghelvalentin/CountryValidator?style=flat-square&labelColor=343b41"/>
