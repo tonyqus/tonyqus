@@ -27,12 +27,12 @@
 - [China .NET OSS Ranking](https://github.com/shnug/OSSRanking/) <img alt="Stars" src="https://img.shields.io/github/stars/shnug/OSSRanking?style=flat-square&labelColor=343b41"/>
 - [Companies using .NET in Malaysia](https://github.com/tonyqus/dotnet-jobs-my)
 - [China .NET Community Statistics](https://github.com/shnug/communitystats/)
+- [FileSignatures](https://github.com/neilharvey/FileSignatures) [![NuGet](https://img.shields.io/nuget/dt/FileSignatures)](https://www.nuget.org/packages/FileSignatures)&nbsp; <img alt="Stars" src="https://img.shields.io/github/stars/neilharvey/FileSignatures?style=flat-square&labelColor=343b41"/>
 
 ### Contributor (non-primary) of Open Source Projects
 - [Country Validator](https://github.com/anghelvalentin/CountryValidator) [![NuGet](https://img.shields.io/nuget/dt/CountryValidator)](https://www.nuget.org/packages/CountryValidator) &nbsp; <img alt="Stars" src="https://img.shields.io/github/stars/anghelvalentin/CountryValidator?style=flat-square&labelColor=343b41"/>
 - [Npgsql](https://github.com/npgsql/npgsql) [![NuGet](https://img.shields.io/nuget/dt/npgsql)](https://www.nuget.org/packages/npgsql)&nbsp; <img alt="Stars" src="https://img.shields.io/github/stars/npgsql/npgsql?style=flat-square&labelColor=343b41"/>
 - [Covariants](https://github.com/hodcroftlab/covariants) <img alt="Stars" src="https://img.shields.io/github/stars/hodcroftlab/covariants?style=flat-square&labelColor=343b41"/>
-- [FileSignatures](https://github.com/neilharvey/FileSignatures) [![NuGet](https://img.shields.io/nuget/dt/FileSignatures)](https://www.nuget.org/packages/FileSignatures)&nbsp; <img alt="Stars" src="https://img.shields.io/github/stars/neilharvey/FileSignatures?style=flat-square&labelColor=343b41"/>
 
 ### My Technical Skills
 - .NET/.NET Core (C#), ASP.NET/ASP.NET Core
