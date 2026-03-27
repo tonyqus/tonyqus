@@ -9,7 +9,8 @@
 ## Recent Learning Topic
 - AI capability assessment
 - Learning Español
-- Vibe Coding 
+- Vibe Coding
+- Rust->C# wrapper library via C# FFI
   
 ### Achievements 
 - Translated 4 technical books into Chinese Simplified
