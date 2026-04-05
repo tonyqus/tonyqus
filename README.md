@@ -7,7 +7,7 @@
 - 📫 You can reach me at [![Gmail](https://img.shields.io/badge/-tonyqus@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tonyqus@gmail.com)
 
 ## Recent Learning Topic
-- AI capability assessment
+- AI coding capability assessment
 - Learning Español
 - Vibe Coding
 - Rust->C# wrapper library via C# FFI
