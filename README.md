@@ -9,7 +9,6 @@
 ## Recent Learning Topic
 - AI coding capability assessment
 - Learning Español
-- Vibe Coding
 - Rust->C# wrapper library via C# FFI
   
 ### Achievements 
