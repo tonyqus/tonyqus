@@ -1,3 +1,5 @@
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-4740-9734)
+
 ### About Me
 
 - 👨‍💻 .NET Veteran for 15+ years
