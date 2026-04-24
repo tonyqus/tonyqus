@@ -16,7 +16,8 @@
 ### Achievements 
 - Translated 4 technical books into Chinese Simplified
 - Microsoft MVP - Developer technology category from 2014-2016
-- Most popular open-source .NET project in the Microsoft community in China (nuget.org ranking: 268)
+- Most popular open-source .NET project in the Microsoft community in China (nuget.org ranking: 284)
+- NPOI has reached 100M downloads in Apr, 2026
 - Hold Shanghai .NET user group bi-weekly meetup for about 2 years
 - Recover the Online Booking system project for Porsche Experience Center Shanghai from failure and made the system the most user-friendly system of the 5 Porche experience centers worldwide.
 - Got 12000+ Likes and 2500+ followers on Zhihu (Chinese Quora)
