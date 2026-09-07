@@ -11,6 +11,7 @@
 ## Recent Learning Topic
 - Vibe coding
 - Learning Español
+- Learning finance and investment
   
 ### Achievements 
 - Translated 4 technical books into Chinese Simplified
