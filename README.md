@@ -8,10 +8,10 @@
 - 🤵 Pronouns: He/Him
 - 📫 You can reach me at [![Gmail](https://img.shields.io/badge/-tonyqus@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tonyqus@gmail.com)
 
-## Recent Learning Topic
-- Vibe coding
+## Recent Topic
 - Learning Español
 - Learning finance and investment
+- Promote F# and Deedle
   
 ### Achievements 
 - Translated 4 technical books into Chinese Simplified
