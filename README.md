@@ -12,6 +12,7 @@
 - Learning Español
 - Learning finance and investment
 - Promote F# and Deedle
+- Deep Investigate on Otis China
   
 ### Achievements 
 - Translated 4 technical books into Chinese Simplified
